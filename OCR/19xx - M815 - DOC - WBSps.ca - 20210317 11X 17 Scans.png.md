@@ -1,5 +1,5 @@
 # 19xx - M815 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -270,7 +270,7 @@ SCALE
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M815/19xx - M815 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/AMPLIFIERS/M815/MANUALS/19xx - M815 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "b037a4a1bf1b8137beb48503722448820eda5d5eb4bb2424beb53ab644172f40",
  "kind": "doc",
  "models": [
