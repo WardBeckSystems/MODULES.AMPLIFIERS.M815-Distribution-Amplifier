@@ -1,6 +1,6 @@
 # M815 Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M815. Wiki page: [M815 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M815.html)
+Ward-Beck Systems M815. Wiki page: [M815 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M815-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
